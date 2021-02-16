@@ -1,1 +1,5 @@
 .idea/
+gestor_archivos/__pycache__/
+configuracion/__pycache__/
+juego_ahorcado/__pycache__/
+textoss/__pycache__/
