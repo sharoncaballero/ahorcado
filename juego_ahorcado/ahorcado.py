@@ -130,6 +130,7 @@ def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,punt
                     if vidas[nombre] == 0:
                         jugadores_vivos = jugadores_vivos - 1
                 print("."*54+"\n")
+    print("------------------------------Los he derrotado a todos!!---------------------------")
     return puntaje, "Programa"
 
 def volver_a_jugar():
