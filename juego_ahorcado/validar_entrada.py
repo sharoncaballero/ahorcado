@@ -54,3 +54,13 @@ def ingresar_letra(palabra):
                 return letra
         else:
             print("Caracter incorrecto intente otro.")
+
+def volver_a_jugar():
+    """"""
+    while True:
+        letra = input("Desea volver a jugar?     si / no: ")
+        if letra == "si":
+            return True
+        elif letra == "no":
+            return False
+        print("Opcion incorrecta")
