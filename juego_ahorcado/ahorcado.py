@@ -1,33 +1,9 @@
 import random
 from gestor_archivos.manager_de_configuracion import cargar_configuracion
 from gestor_archivos.navegador import buscar_palabras_de_longitud, salvar_resultados
+from juego_ahorcado.validar_entrada import ingresar_letra, consultar_participantes, consultar_nombres, \
+    consultar_longitud
 
-def consultar_participantes():
-    """Pide al usuario ingresar el numero de participantes y verifique que este correcto"""
-    max_usuarios = cargar_configuracion("MAX_USUARIOS", 10)
-    while True:
-        numero_participantes = input("Ingrese numero de jugadores. El numero no debe ser mayor que "+str(max_usuarios) + ": ")
-        if numero_participantes.isdigit():
-            numero_participantes = int(numero_participantes)
-            if 0 < numero_participantes <= max_usuarios:
-                return numero_participantes
-
-def consultar_nombres(numero_participantes):
-    """Pide al ususario ingresar el nombre de los jugadores y verifica que sean correctos"""
-    nombres_participantes = []
-    for i in range(numero_participantes):
-        nombre_incorrecto = True
-        while nombre_incorrecto:
-            nombre_jugador = input("Ingrese nombre del jugador "+str(i+1)+". Este solo puede tener letras o espacios:\n")
-            if nombre_jugador.replace(" ", "").isalpha():
-                if nombre_jugador in nombres_participantes:
-                    print("El nombre ya fue ingresado")
-                elif nombre_jugador == "Programa":
-                    print("Ese nombre esta reservado")
-                else:
-                    nombres_participantes.append(nombre_jugador)
-                    nombre_incorrecto = False
-    return nombres_participantes
 
 def mezclar_jugadores(nombres_participantes):
     """Mezcla e informa el orden de los jugadores"""
@@ -38,32 +14,6 @@ def mezclar_jugadores(nombres_participantes):
         contador = contador + 1
         print("Jugador", str(contador)+":", nombre)
     print("."*54)
-
-def consultar_longitud(numero_participantes, tabla_de_longitud):
-    """Consulta la longitud deseada de letras que debe tener la palabra
-    asegurandose que sea posible realizarse el juego
-    """
-    long_palabra_min = cargar_configuracion("LONG_PALABRA_MIN", 5)
-    while True:
-        longitud = input("Ingrese longitud de las palabras a adivinar. Debe ser mayor que "+str(long_palabra_min)+": ")
-        if longitud.isdigit():
-            longitud = int(longitud)
-            if long_palabra_min <= longitud:
-                if tabla_de_longitud.get(longitud, 0) >= numero_participantes:
-                     return longitud
-
-def ingresar_letra(palabra):
-    """Pide una letra y lo valida"""
-    while True:
-        letra = input("Ingrese una letra: ")
-        if letra.isalpha() and len(letra) == 1:
-            letra = letra.lower()
-            if letra in palabra:
-                print("Esa letra ya esta incluida.")
-            else:
-                return letra
-        else:
-            print("Caracter incorrecto intente otro.")
 
 def reemplazar_letra(palabra, palabra_oculta, letra):
     """Esta funcion indica si la letra es parte de la palabra y en ese caso lo agrega en la palabra oculta"""
@@ -76,6 +26,7 @@ def reemplazar_letra(palabra, palabra_oculta, letra):
         else:
             palabra_nueva = palabra_nueva + palabra_oculta[posicion]
     return palabra_nueva, adivino
+
 def descripcion_fin_partida(nombres_participantes, palabras, palabras_ocultas,  puntaje, partidas):
     """"""
     titulo = "| NOMBRE      | PALABRA       | PALABRA OCULTA | PUNTAJE | ACIERTOS | DESACIERTOS | #PARTIDAS |\n"
@@ -154,12 +105,17 @@ def reordenar_jugadores(nombres_participantes,ganador,puntaje_historico):
 
 
 def jugar(tabla_de_longitud):
+    #Cargar Configuracion
     puntos_adivina = cargar_configuracion("PUNTOS_ADIVINA", 30)
     max_desaciertos = cargar_configuracion("MAX_DESACIERTOS", 7)
     puntos_aciertos = cargar_configuracion("PUNTOS_ACIERTOS", 2)
     puntos_desaciertos = cargar_configuracion("PUNTOS_DESACIERTOS", 1)
+
+    #Validar cantidad de jugadores
     numero_participantes = consultar_participantes()
+    #Validar nombres de jugadores
     nombres_participantes = consultar_nombres(numero_participantes)
+
     mezclar_jugadores(nombres_participantes)
 
     partidas = 1
@@ -167,11 +123,23 @@ def jugar(tabla_de_longitud):
     seguir_jugando = True
 
     while seguir_jugando:
+        # Ingrese longitud...
         longitud = consultar_longitud(numero_participantes, tabla_de_longitud)
 
+        #Buscando todas las palabras
         palabras = buscar_palabras_de_longitud(longitud)
+        print(palabras)
+
+        #Elijo al azar 1 para cada jugador
         palabras = random.sample(palabras, numero_participantes)
+
+        #Descomentar para debug
+        print(palabras)
+
+        #Creo la misma cantidad de palabras pero ocultas
         palabras_ocultas = ["_"*longitud for i in range(numero_participantes)]
+
+        #Que empiece el juego
         puntaje,ganador = partida(nombres_participantes, palabras, palabras_ocultas,max_desaciertos,puntos_aciertos,puntos_desaciertos,puntos_adivina)
 
         if partidas == 1:

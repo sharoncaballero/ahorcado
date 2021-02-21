@@ -4,7 +4,7 @@ def dividir_texto_en_palabras_correctas(nombre_archivo):
     caracteres_tildes = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "ã": "a", "â": "a"}
     caracteres_borrar = """{}[](),.'"!?¿¡º+*-\t@#$%:;&_=/"""
     for c in caracteres_borrar:
-        caracteres_tildes[c] = ""
+        caracteres_tildes[c] = " "
 
     palabras = set()
     with open(nombre_archivo, "r", encoding="latin-1") as archivo:

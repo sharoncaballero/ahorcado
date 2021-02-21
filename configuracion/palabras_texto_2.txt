@@ -62,7 +62,6 @@ absolutismo
 absolutista
 absolutistas
 absoluto
-absolutoexclamaba
 absorber
 abstraccion
 absurdo
@@ -208,8 +207,6 @@ adelanto
 ademan
 ademanes
 ademas
-ademascontinuo
-ademasdijo
 adepta
 adheridas
 adhesion
@@ -362,7 +359,6 @@ ahogadas
 ahogandose
 ahogar
 ahora
-ahoradijo
 ahorcar
 ahorco
 ahorque
@@ -472,7 +468,6 @@ aludia
 alumbraba
 alumbrar
 alvarez
-alvarezcontesto
 alzabase
 alzandose
 alzo
@@ -492,7 +487,6 @@ amanerado
 amante
 amantes
 amanuense
-amanuensehablaba
 amar
 amarga
 amargado
@@ -501,7 +495,6 @@ amarillentas
 amarillento
 amarillentos
 amas
-amaspregunto
 ambas
 ambicion
 ambicioso
@@ -530,17 +523,14 @@ amigable
 amigas
 amigo
 amigos
-amigosy
 amigotes
 amistad
 amistades
 amnistias
 amo
-amodijo
 amolda
 amoldaba
 amoldarse
-amomurmuro
 amonestado
 amontonaban
 amor
@@ -608,8 +598,8 @@ animar
 animo
 aniquilarte
 aniñados
+anoche
 anochecer
-anochecontinuo
 anonadada
 anonadado
 anonadados
@@ -648,8 +638,6 @@ antipatica
 antipatico
 antojo
 antonio
-antoniodijo
-antonioque
 antorchas
 antro
 anuncia
@@ -894,7 +882,7 @@ artisticos
 arzobispo
 asalariados
 asaltantes
-ascasibarmartin
+ascasibar
 ascendiente
 ascenso
 asciende
@@ -935,7 +923,7 @@ asombrada
 asombrado
 asombrados
 asombro
-asombrosohasta
+asombroso
 asonadas
 aspas
 aspecto
@@ -1156,7 +1144,6 @@ barbones
 barcelona
 baron
 baronesa
-baronesadijo
 baronet
 barran
 barrer
@@ -1171,11 +1158,9 @@ barrios
 barro
 basan
 baselga
-baselgadijo
 basta
 bastado
 bastante
-bastantecontesto
 bastantes
 bastaria
 bastera
@@ -1380,9 +1365,6 @@ caballeresca
 caballeresco
 caballeria
 caballero
-caballerocontesto
-caballerocontinuo
-caballerodijo
 caballeros
 caballerosidad
 caballo
@@ -1425,7 +1407,6 @@ caja
 calada
 calandose
 calavera
-calaveracontinuo
 calaveradas
 calaverillas
 calcule
@@ -1492,7 +1473,7 @@ campestres
 campo
 can
 canalla
-canalladadijo
+canallada
 canallas
 canallesco
 canalones
@@ -1539,7 +1520,6 @@ capuchinos
 cara
 caracter
 caracteres
-caracteresdijo
 caracteristico
 caracteristicos
 caracterizaba
@@ -1818,9 +1798,6 @@ clases
 clasica
 clasificado
 claudio
-claudioa
-claudiodijo
-claudiopues
 clausura
 clavarse
 clavicula
@@ -1856,7 +1833,6 @@ colegial
 colegio
 colegios
 colera
-colerason
 colerica
 colericas
 coleta
@@ -1932,7 +1908,6 @@ comision
 comisionado
 comisiones
 como
-comoexclamo
 compactas
 compadecidos
 compadres
@@ -2016,13 +1991,10 @@ concluyente
 concupiscencia
 concurrida
 conde
-condecontinuo
-condedijo
 condenado
 condenandolo
 condes
 condesa
-condesapregunto
 condesita
 condesito
 condicion
@@ -2047,6 +2019,7 @@ confesion
 confeso
 confesonario
 confesor
+confia
 confiaba
 confiados
 confian
@@ -2205,6 +2178,7 @@ consume
 contadas
 contados
 contaminarse
+contamplaba
 contando
 contar
 contemplaba
@@ -2395,7 +2369,6 @@ costas
 costo
 costosos
 costumbre
-costumbredesea
 costumbres
 cotejo
 covachuelistas
@@ -2557,7 +2530,6 @@ curacion
 curado
 curarse
 curas
-curavera
 curiosamente
 curiosas
 curiosidad
@@ -2576,11 +2548,9 @@ da
 daba
 daban
 dado
-dadopregunto
 dados
 dale
 dama
-damadijo
 damas
 dame
 damisela
@@ -2614,7 +2584,6 @@ de
 dean
 debajo
 debe
-debeinterrumpio
 debemos
 deben
 deber
@@ -2650,11 +2619,9 @@ decidirles
 decidme
 decidnos
 decir
-decirconfia
 decirle
 decirlo
 decirme
-decirque
 decirse
 decisivas
 declamacion
@@ -2671,6 +2638,7 @@ decrecer
 decrepitud
 decretado
 decretos
+deculpas
 dedalo
 dedica
 dedicada
@@ -2878,7 +2846,6 @@ desdichada
 desea
 deseaba
 deseaban
-deseacontesto
 deseada
 deseado
 deseamos
@@ -2901,6 +2868,7 @@ deseos
 deseosa
 deseoso
 deseosos
+deseperacion
 desesperaba
 desesperacion
 desesperado
@@ -2927,7 +2895,6 @@ deshechas
 deshecho
 deshonra
 deshonrada
-deshonraexclamo
 deshonrosa
 deshonroso
 desierto
@@ -3089,7 +3056,6 @@ dices
 dicha
 dichas
 dicho
-dichoexclamo
 dichos
 dichoso
 diciendo
@@ -3107,9 +3073,10 @@ diestra
 diez
 diferencia
 diferenciaba
-diferentedijo
+diferente
 diferentes
 dificil
+dificios
 dificultad
 difunta
 difunto
@@ -3134,7 +3101,6 @@ diluvio
 dinero
 dio
 dios
-diosdijo
 dioses
 diplomaticas
 diplomatico
@@ -3149,7 +3115,6 @@ directa
 director
 directora
 directores
-directorpenso
 diremos
 dirian
 dirige
@@ -3223,6 +3188,7 @@ dispuestos
 dispusieron
 disputaban
 distancia
+distiguida
 distincion
 distingue
 distinguia
@@ -3308,8 +3274,6 @@ dramatica
 duchos
 duda
 dudaba
-dudacontinuo
-dudamurmuro
 dudan
 dudando
 dudar
@@ -3377,7 +3341,6 @@ ego
 egoismo
 egoistas
 eh
-ehdijo
 eje
 ejecutaban
 ejecutor
@@ -3667,7 +3630,6 @@ entiendes
 entiendo
 entonaban
 entonacion
-entonacionen
 entonado
 entonces
 entorpecer
@@ -3681,7 +3643,6 @@ entrando
 entrar
 entraramos
 entraran
-entrarcontinuo
 entraria
 entraron
 entre
@@ -3919,7 +3880,6 @@ esponjas
 esposa
 esposas
 esposo
-espregunto
 espuelas
 espuma
 esqueleto
@@ -3939,7 +3899,6 @@ establecer
 establecida
 establecimiento
 establecio
-estadijo
 estado
 estados
 estallar
@@ -3968,9 +3927,7 @@ estatura
 estatutos
 este
 esteban
-estebancontesto
 esten
-estesi
 estilo
 estimable
 estimacion
@@ -3979,7 +3936,6 @@ estio
 estiro
 esto
 estocadas
-estoexclamo
 estofa
 estomago
 estomagos
@@ -4175,7 +4131,6 @@ extraordinario
 extravagante
 extravagantes
 extraña
-extrañaexclamo
 extrañandose
 extrañarse
 extrañas
@@ -4284,7 +4239,6 @@ feotas
 fernanda
 fernandez
 fernando
-fernandodijo
 feroces
 feroz
 ferrea
@@ -4307,7 +4261,6 @@ fielmente
 fiera
 fieras
 fiereza
-fierezame
 fiesta
 fiestas
 figura
@@ -4410,11 +4363,12 @@ forzosa
 forzosamente
 fosca
 fosco
+fracmasones
 fraile
 frailecillo
 frailecito
 frailes
-frailuchosdijo
+frailuchos
 frailuna
 frailuno
 franca
@@ -4423,9 +4377,7 @@ francamente
 frances
 francesa
 francesas
-francesdijo
 franceses
-francesexclamo
 francia
 francisca
 franciscanos
@@ -4435,8 +4387,7 @@ francos
 franjas
 franqueable
 franqueza
-franquezadijo
-frasedijo
+frase
 frecuencia
 frecuentes
 frenetica
@@ -4478,6 +4429,7 @@ fuerza
 fuerzas
 fuese
 fuesen
+fueza
 fuga
 fugas
 fugaz
@@ -4624,10 +4576,8 @@ gozar
 gozo
 gracia
 gracias
-graciasdijo
 graciosa
 graciosamente
-graciosamenteque
 graciosisima
 gracioso
 graciosos
@@ -4653,8 +4603,6 @@ gratas
 gratitud
 grato
 grave
-gravedijo
-gravemurmuro
 graves
 gregorio
 griega
@@ -4690,7 +4638,6 @@ guardara
 guardarse
 guarde
 guarden
-guardey
 guardia
 guardias
 guarecia
@@ -4724,7 +4671,7 @@ gusten
 gustes
 gusto
 gustoso
-gutenbergs
+gutenberg
 ha
 habeis
 haber
@@ -4761,7 +4708,6 @@ hablan
 hablando
 hablar
 hablara
-hablarcontinuo
 hablare
 hablarla
 hablarme
@@ -4843,7 +4789,9 @@ hecho
 hechos
 helaba
 helados
+hemano
 hemos
+hemosa
 hercules
 heredera
 herederos
@@ -4906,7 +4854,6 @@ hojas
 hojeo
 holgados
 hombre
-hombredijo
 hombres
 hombro
 hombron
@@ -4926,7 +4873,6 @@ honraba
 honrada
 honrado
 honrados
-honradosegun
 honro
 honroso
 hora
@@ -4949,7 +4895,6 @@ hostigados
 hostil
 hotel
 hoy
-hoypregunto
 hoyuelo
 hoyuelos
 hubiera
@@ -5097,7 +5042,6 @@ importuno
 importunos
 imposibilitado
 imposible
-imposibledijo
 imposicion
 impregnada
 impregnado
@@ -5187,7 +5131,7 @@ indicaciones
 indicada
 indicamos
 indicar
-indicarledijo
+indicarle
 indicarme
 indicas
 indicio
@@ -5451,7 +5395,6 @@ ira
 iracunda
 iracundas
 iracundo
-iraes
 iran
 iras
 ire
@@ -5496,11 +5439,9 @@ jerjes
 jeroglificos
 jesucristo
 jesuita
-jesuitaexclamo
 jesuitas
 jesuitaza
 jesuitica
-jesuiticase
 jesuitismo
 jesus
 jicara
@@ -5601,7 +5542,6 @@ lazos
 le
 leales
 leandro
-leandrodijo
 leccion
 lecciones
 lecho
@@ -5742,9 +5682,7 @@ llegaban
 llegada
 llegadas
 llegado
-llegamurmuro
 llegan
-llegapenso
 llegar
 llegara
 llegaria
@@ -5839,8 +5777,6 @@ macilento
 maciza
 macizas
 madre
-madrecontesto
-madredijo
 madres
 madrid
 madrugada
@@ -5857,7 +5793,6 @@ magnificas
 magnificencias
 majaderias
 majestad
-majestaddijo
 majestuosamente
 majo
 majorem
@@ -5865,7 +5800,6 @@ majos
 mal
 mala
 malas
-malcontesto
 maldad
 maldecida
 maldecir
@@ -5881,7 +5815,7 @@ malhumorados
 maliciosos
 maligna
 malignamente
-malignidadda
+malignidad
 malo
 malograra
 malos
@@ -5948,7 +5882,6 @@ manteo
 manto
 manuscrito
 mapa
-mapacontinuo
 mapas
 maquina
 maquinaciones
@@ -5984,6 +5917,7 @@ marquesas
 marqueses
 marruecos
 marsella
+martin
 martinez
 martir
 martirizadas
@@ -6039,6 +5973,7 @@ meditaciones
 medrada
 medrados
 medrar
+meiico
 mejicana
 mejicanas
 mejico
@@ -6068,7 +6003,6 @@ mentidero
 mentido
 mentir
 mentira
-mentiraexclamo
 mentiras
 menudearan
 menudo
@@ -6114,8 +6048,6 @@ mezquina
 mezquino
 mi
 mia
-miacontinuo
-miadijo
 mias
 microscopicos
 mida
@@ -6134,7 +6066,6 @@ milicia
 miliciano
 milicianos
 militar
-militardijo
 militares
 militarmente
 millones
@@ -6147,11 +6078,7 @@ minoria
 minuciosamente
 minutos
 mio
-miodijo
-mioexclamo
-miorespondio
 mios
-mipregunto
 mira
 miraba
 miraban
@@ -6179,7 +6106,6 @@ misiones
 misma
 mismas
 mismo
-mismocontinuo
 mismos
 misterio
 misteriosa
@@ -6255,7 +6181,6 @@ moribundo
 morillo
 morir
 morira
-morircontesto
 moro
 morriones
 mortal
@@ -6324,6 +6249,7 @@ muestra
 muestras
 muestre
 mueva
+mugio
 mugrienta
 mugrientas
 mugriento
@@ -6434,18 +6360,14 @@ ninguna
 ninguno
 nivel
 niña
-niñapregunto
 niño
-niñodijo
 no
 noble
 nobles
 nobleza
 noche
 noches
-nochesdijo
 nocion
-nocontesto
 nocturna
 nocturnas
 nocturnos
@@ -6492,8 +6414,6 @@ nuestra
 nuestras
 nuestro
 nuestros
-nuestrospregunto
-nuestrosse
 nueva
 nuevamente
 nuevas
@@ -6504,7 +6424,6 @@ numero
 numeros
 numerosos
 nunca
-nuncacontesto
 o
 oasis
 obedece
@@ -6604,12 +6523,12 @@ odiar
 odiara
 odie
 odio
+odivinado
 ofendida
 ofendido
 ofensa
 ofensiva
 oficial
-oficialcontesto
 oficiales
 oficinistas
 oficio
@@ -6737,9 +6656,6 @@ paciente
 pacientemente
 pacifico
 padre
-padreapunto
-padreañadio
-padredijo
 padrenuestros
 padres
 padrino
@@ -6840,7 +6756,6 @@ partidos
 partieron
 partio
 partir
-partircontinuo
 parto
 pasa
 pasaba
@@ -6935,6 +6850,8 @@ pelo
 pelos
 peloton
 peluconas
+pemita
+pemitia
 pena
 penalidades
 penas
@@ -6964,8 +6881,6 @@ peor
 peores
 pepa
 pepita
-pepitacomo
-pepitamugio
 pequeña
 pequeñas
 pequeñez
@@ -6998,7 +6913,6 @@ perecer
 perezosos
 perfeccion
 perfectamente
-perfectamentedijo
 perfecto
 perfidas
 perfil
@@ -7070,6 +6984,7 @@ perspectiva
 persuadio
 persuasion
 persuasivo
+pertenciente
 pertenece
 pertenecer
 pertenecia
@@ -7119,7 +7034,6 @@ piense
 pienso
 pierda
 pierde
-pierdeañadio
 pierna
 piernas
 pies
@@ -7195,13 +7109,11 @@ pocos
 podamos
 podemos
 poder
-podercontinuo
 poderio
 poderosa
 poderosisimas
 poderoso
 poderosos
-podery
 podia
 podian
 podido
@@ -7539,13 +7451,13 @@ propuso
 prorrumpio
 proseguir
 prostituirse
-prostitutamurmuro
+prostituta
 protagonistas
 proteccion
 protector
 protectora
 protege
-protegeradijo
+protegera
 protegerian
 protegida
 proteja
@@ -7635,7 +7547,6 @@ puñetazos
 puños
 que
 quebrantada
-quecaso
 queda
 quedaba
 quedaban
@@ -7658,10 +7569,12 @@ quejarse
 queje
 quejo
 quejumbrosa
+quellos
 quemado
 quemando
 quemarropa
 quemarse
+quenes
 queremos
 querer
 quererlas
@@ -7698,7 +7611,6 @@ quitado
 quitapellejos
 quitarle
 rabia
-rabiaen
 rabillo
 rabo
 racional
@@ -7835,7 +7747,6 @@ reconciliacion
 reconciliarse
 reconoce
 reconocer
-reconocercontinuo
 reconocerlo
 reconocia
 reconocian
@@ -7845,7 +7756,7 @@ reconocido
 reconocidos
 reconocimiento
 reconocio
-reconozcadijo
+reconozca
 reconozco
 reconquista
 recordaba
@@ -8006,7 +7917,7 @@ repitiendo
 replegaban
 repleto
 repletos
-repliquesdijo
+repliques
 reponer
 reposada
 representa
@@ -8029,6 +7940,7 @@ republicano
 repugnaba
 repugnante
 repulsivo
+repuso
 requiebros
 resaltar
 resbalando
@@ -8045,7 +7957,6 @@ resistencias
 resistente
 resistir
 resolucion
-resoluciondecia
 resoluciones
 resolvio
 resortes
@@ -8067,6 +7978,7 @@ respirar
 resplandor
 responde
 respondia
+respondio
 respondo
 responsabilidades
 responsable
@@ -8128,7 +8040,6 @@ revelarme
 revelarselo
 revele
 reverencia
-reverenciapregunto
 reverenda
 reverendo
 reverentemente
@@ -8150,7 +8061,6 @@ revuelques
 revueltos
 rey
 reyes
-reyvolvio
 rezaba
 rezado
 rezando
@@ -8235,6 +8145,7 @@ rotas
 roto
 rotulado
 rousseau
+royal
 rozaba
 rozaban
 rozando
@@ -8309,7 +8220,6 @@ sacarle
 sacaron
 sacarse
 sacerdote
-sacerdotedentro
 saciado
 saco
 sacramento
@@ -8337,6 +8247,7 @@ salgo
 salia
 salian
 salida
+salidad
 salido
 salidos
 saliendo
@@ -8435,7 +8346,6 @@ seguia
 seguian
 seguid
 seguidas
-seguiddijo
 seguido
 seguimos
 seguir
@@ -8522,7 +8432,6 @@ seremos
 serenarse
 serenidad
 serenos
-serepuso
 seres
 seria
 serian
@@ -8544,7 +8453,7 @@ servidores
 servidumbre
 servil
 serviles
-servilismoa
+servilismo
 servilmente
 servir
 servirle
@@ -8564,19 +8473,10 @@ señalarla
 señales
 señor
 señora
-señoracontesto
-señoracontinuo
-señoradijo
-señorapregunto
 señoras
-señoravolvio
-señorcontesto
-señordijo
 señores
 señoriales
 señorita
-señoritadijo
-señormurmuro
 señoronas
 si
 sibila
@@ -8609,14 +8509,12 @@ siguio
 sigüenza
 silabas
 silencio
-silencioes
 silenciosamente
 silencioso
 silenciosos
 silla
 sillas
 sillon
-sillony
 simpatia
 simpatica
 simpatico
@@ -8663,7 +8561,6 @@ sobrevinieron
 sobrevino
 sobrina
 sobrino
-sobrinodijo
 social
 sociales
 sociedad
@@ -8697,7 +8594,6 @@ solitaria
 solitarios
 solo
 solos
-solosdijo
 soltarse
 solteron
 solto
@@ -8730,13 +8626,11 @@ sonreir
 sonrien
 sonriendo
 sonriendose
-sonriendosecomo
 sonriente
 sonriera
 sonrio
 sonriose
 sonrisa
-sonrisapara
 sonrisas
 sonrosada
 sopeton
@@ -8800,7 +8694,7 @@ subyugados
 sucede
 sucederia
 sucedianse
-sucediopregunto
+sucedio
 sucesivas
 suceso
 sucesos
@@ -8811,7 +8705,6 @@ suelo
 suelta
 sueltas
 suerte
-suertecontesto
 sueño
 suficiente
 suficientes
@@ -8834,9 +8727,9 @@ superficial
 superintendente
 superior
 superiora
-superiorame
 superiores
 superioridad
+superitendente
 supersticioso
 supiera
 supieran
@@ -8895,7 +8788,6 @@ tamaño
 tamaños
 tambaleandose
 tambien
-tambiense
 tampoco
 tan
 tanta
@@ -8969,7 +8861,6 @@ tendemos
 tendencia
 tender
 tenderillos
-tenderilloscomo
 tenderos
 tendia
 tendida
@@ -9015,7 +8906,6 @@ terminaba
 terminaban
 terminada
 terminado
-terminadocontinuo
 terminados
 terminando
 terminante
@@ -9110,7 +9000,6 @@ toda
 todas
 todavia
 todo
-tododijo
 todos
 toldo
 toledano
@@ -9135,7 +9024,6 @@ tontas
 topando
 topetazo
 toques
-toquesdijo
 torbellino
 tormentos
 torno
@@ -9147,7 +9035,7 @@ torrente
 torrero
 tortuosas
 tosco
-tourroyal
+tour
 trabaja
 trabajado
 trabajais
@@ -9250,7 +9138,6 @@ trienio
 trincheras
 trinidad
 triste
-tristeconozco
 tristes
 tristeza
 tristezas
@@ -9324,6 +9211,7 @@ unian
 uniase
 unica
 unicamente
+unicamete
 unicas
 unico
 unicos
@@ -9348,13 +9236,12 @@ usado
 usar
 uso
 usted
-ustedcontinuo
-usteddijo
 ustedes
 usurpacion
 usurpando
 util
 utiles
+utsed
 uñas
 v
 va
@@ -9413,14 +9300,12 @@ vaso
 vasos
 vasta
 vaya
-vayadijo
 vayamos
 vayan
 ve
 vea
 veas
 veces
-vecescontinuo
 vecina
 vecinas
 vecindad
@@ -9479,7 +9364,6 @@ venidas
 venido
 venimos
 venir
-venirdecia
 ventaja
 ventajoso
 ventana
@@ -9505,7 +9389,6 @@ verdosos
 verdugo
 vere
 veremos
-veremoscontinuo
 vergonzosa
 vergonzoso
 vergonzosos
@@ -9552,15 +9435,12 @@ victoria
 victoriosa
 victoriosos
 vida
-vidadijo
 vidas
 vidrieras
 vidrios
 vieja
 viejas
 viejo
-viejocuan
-viejoque
 viejos
 viendo
 viendolas
@@ -9602,7 +9482,6 @@ visiones
 visita
 visitaban
 visitadas
-visitamurmuro
 visitante
 visitantes
 visitar
@@ -9664,7 +9543,6 @@ vos
 vosotros
 voy
 voz
-vozaquel
 vozarron
 vuelta
 vuelto
@@ -9682,10 +9560,8 @@ x
 xi
 y
 ya
-yacontinuo
 yendo
 yo
-yocontinuo
 zalamero
 zapatero
 zapatitos

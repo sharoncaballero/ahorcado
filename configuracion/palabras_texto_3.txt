@@ -5,6 +5,7 @@ abalance
 abalanzaron
 abalanzo
 abandona
+abandonada
 abandonado
 abandonamos
 abandonando
@@ -84,16 +85,15 @@ absorbia
 absorbian
 abstenia
 absurdas
-abukir
+abu
 abultada
 abundan
 abundando
 abundantes
-abunowas
 abusando
 abusar
 abuses
-abusir
+aby
 abylssuha
 acaba
 acababa
@@ -154,6 +154,7 @@ acertando
 acerte
 acogerte
 acogida
+acogido
 acometiendo
 acometio
 acomodarse
@@ -264,6 +265,8 @@ advertir
 advirtio
 aereos
 afecto
+afectuoso
+afeitada
 afeitadas
 afeitado
 afeitara
@@ -291,6 +294,7 @@ afligido
 afligiendose
 afligimos
 afligio
+afligirme
 afligirse
 afluian
 afortunadamente
@@ -317,6 +321,7 @@ agua
 aguardando
 aguardandote
 aguardar
+aguardaras
 aguardare
 aguarde
 aguardo
@@ -328,6 +333,7 @@ aguja
 agüero
 ah
 ahi
+ahjam
 ahjami
 ahlan
 ahogado
@@ -339,8 +345,8 @@ ahorcar
 airadamente
 aire
 aires
-airestipos
 aislarme
+ajam
 ajedrez
 ajenos
 ajorcas
@@ -359,7 +365,6 @@ alabarte
 aladino
 alah
 alahu
-alajam
 alarcon
 alargaba
 alargando
@@ -367,8 +372,6 @@ alargue
 alarme
 alas
 albahaca
-albarmaki
-albassri
 alberga
 alcance
 alcanzan
@@ -379,8 +382,6 @@ alcanzarlo
 alcanzo
 alcarraza
 alce
-aldin
-aldjalis
 alegrado
 alegrara
 alegraron
@@ -426,21 +427,15 @@ aliviaron
 alla
 alli
 alma
-almansur
 almas
-almassoudi
 almea
 almendra
 almendras
 almizclada
 almizcle
-alnadim
-alnahar
-alneman
 aloe
 alquilado
 alquilo
-alrachid
 alrededor
 alrededores
 alta
@@ -454,7 +449,6 @@ aludo
 alumbrada
 alumbrado
 alumbrar
-alzaman
 alzando
 ama
 amaba
@@ -474,6 +468,7 @@ amargas
 amargo
 amargos
 amargura
+amarillea
 amarillo
 amarillos
 amarla
@@ -490,9 +485,10 @@ amer
 america
 americana
 americas
-americasesto
+amiga
 amigo
 amigos
+amin
 amina
 amistad
 amistades
@@ -527,6 +523,7 @@ anduve
 anduvieron
 anduvimos
 anduvo
+anecdotas
 anemonas
 angulo
 angustiosa
@@ -639,6 +636,7 @@ aprendio
 apresares
 apresuradamente
 apresurado
+apresuraos
 apresuraronse
 apresurate
 apresure
@@ -696,8 +694,9 @@ argonautas
 argumento
 arido
 aristofanes
-aristotelesclasicos
+aristoteles
 arma
+armario
 armaron
 armarte
 armas
@@ -733,7 +732,6 @@ arreglaban
 arreglados
 arreglate
 arreglo
-arreglonos
 arrepenti
 arrepentida
 arrepentido
@@ -834,6 +832,7 @@ astucia
 astuto
 asunto
 asuntos
+asusta
 asustados
 asustar
 asustarme
@@ -843,6 +842,7 @@ atadas
 atado
 atados
 atajo
+ataque
 ataron
 atasen
 atavio
@@ -860,6 +860,7 @@ aterradora
 aterreis
 aterrorizamos
 atestada
+atica
 atiende
 atiendes
 atmosfera
@@ -944,6 +945,7 @@ ay
 ayer
 ayo
 ayoub
+ayub
 ayuda
 ayudarle
 ayudarme
@@ -970,7 +972,6 @@ añadir
 añejo
 año
 años
-añosal
 b
 baba
 babilonia
@@ -991,6 +992,7 @@ baje
 bajeza
 bajo
 bakkar
+balanza
 balbuceo
 ballena
 ballesta
@@ -1002,7 +1004,7 @@ bancos
 bandeja
 bandoleros
 bang
-baniabbas
+bani
 banj
 baramka
 barba
@@ -1016,6 +1018,7 @@ barco
 barcos
 barkhia
 barmacidas
+barmaki
 barmakida
 barraca
 barreduras
@@ -1026,6 +1029,7 @@ basada
 base
 basrah
 bassora
+bassri
 basta
 bastaba
 bastado
@@ -1035,7 +1039,7 @@ bastaria
 basto
 basura
 batalla
-batallasel
+batallas
 batieron
 bayas
 bazin
@@ -1060,9 +1064,10 @@ bebio
 becerro
 beduino
 beirut
+bekar
 beldades
 beleño
-beligerantespersonajes
+beligerantes
 bella
 bellas
 belleza
@@ -1070,14 +1075,13 @@ bello
 bellos
 ben
 benamor
-benayub
-benbekar
 bendecian
 bendecida
 bendecido
 bendicion
 bendiciones
 bendiga
+bendigamos
 bendigo
 bendita
 bendito
@@ -1085,17 +1089,16 @@ beneficien
 beneficio
 beneficios
 benefico
-beneficoque
 beneficos
 benevolas
 bergson
-bergsonla
 bermellon
 besaba
 besaban
 besando
 besandome
 besar
+besarla
 besarlas
 besarlos
 besarme
@@ -1126,6 +1129,7 @@ blandiendo
 blasco
 boca
 bocadillos
+bocado
 boccaccio
 boda
 bodas
@@ -1212,6 +1216,7 @@ buscarla
 buscarlo
 buscarme
 buscaron
+buscarte
 busco
 busque
 busques
@@ -1272,6 +1277,8 @@ caliente
 califa
 califas
 califato
+caliz
+calla
 callandome
 callar
 callarme
@@ -1365,6 +1372,7 @@ caritativa
 cariño
 cariñosamente
 cariñosas
+carmen
 carmesi
 carne
 carnero
@@ -1375,7 +1383,6 @@ carnicero
 caro
 carreteras
 carrillo
-carrillola
 carta
 cartone
 casa
@@ -1396,6 +1403,7 @@ cascabeles
 cascadas
 cascos
 case
+casemos
 casi
 caso
 casos
@@ -1409,6 +1417,7 @@ castigarlas
 castigarse
 castigo
 castigue
+castillo
 castizos
 castrar
 castro
@@ -1421,6 +1430,7 @@ causadas
 causado
 causar
 causarte
+cause
 cautiva
 cautivar
 cava
@@ -1466,7 +1476,7 @@ censures
 centesima
 centimos
 centro
-centsedicion
+cents
 cera
 cerca
 cercano
@@ -1498,6 +1508,7 @@ cesta
 ceylan
 ceñirse
 chambelanes
+chamseddin
 chamuscadas
 chamuscado
 chanzas
@@ -1534,6 +1545,7 @@ cierta
 ciertamente
 ciertas
 cierto
+ciges
 cima
 cimas
 cincelados
@@ -1568,8 +1580,6 @@ clarifico
 clase
 clases
 clasica
-clasicaclasicos
-clasicapensedebe
 clasicos
 clavadas
 clave
@@ -1589,6 +1599,7 @@ cociendo
 cocina
 cocinera
 cocinero
+cocodrilo
 codigo
 cofradia
 coge
@@ -1752,6 +1763,8 @@ comprension
 compro
 comprobacion
 comprobar
+comprobaran
+comprobarlo
 compromisos
 compruebo
 compuesta
@@ -1832,7 +1845,6 @@ conocemos
 conocer
 conocera
 conoceras
-conocerhace
 conocernos
 conoces
 conocia
@@ -1891,6 +1903,7 @@ consiguio
 consintio
 consistia
 consolarme
+consolarnos
 consolido
 consta
 constancia
@@ -1931,8 +1944,7 @@ contemplaba
 contemplado
 contemplo
 contemporanea
-contemporaneael
-contemporaneosjose
+contemporaneos
 contener
 contenerme
 contenga
@@ -1957,6 +1969,7 @@ contestarle
 contestarme
 contestarnos
 contestaron
+contestarte
 contestasen
 conteste
 contestes
@@ -2053,9 +2066,11 @@ corrientes
 corrieron
 corriese
 corrio
+corta
 cortada
 cortadas
 cortado
+cortala
 cortale
 cortando
 cortandote
@@ -2104,6 +2119,7 @@ creciente
 crecimos
 crecio
 credito
+creeis
 creencias
 creer
 creere
@@ -2137,6 +2153,7 @@ critico
 criticos
 cronicas
 cronologia
+crucificalos
 crucificasen
 crucifiquen
 crucifixion
@@ -2192,7 +2209,7 @@ cuenta
 cuentame
 cuentanos
 cuentas
-cuentasepero
+cuentase
 cuente
 cuentes
 cuentista
@@ -2210,6 +2227,7 @@ cuida
 cuidado
 cuidados
 cuidadosamente
+cuidadoso
 cuidaron
 cuidarse
 cuide
@@ -2308,6 +2326,7 @@ debido
 debiendo
 debil
 debiles
+debilidad
 debilitado
 debilmente
 debio
@@ -2384,11 +2403,12 @@ dejate
 deje
 dejemos
 dejes
+dejla
 dejo
 del
 delante
 delantera
-delaruemardrus
+delarue
 deleita
 delicadamente
 delicadas
@@ -2405,6 +2425,7 @@ delito
 demanda
 demas
 demasiado
+demora
 demostrar
 demuestranos
 den
@@ -2487,6 +2508,7 @@ desde
 desdeñando
 desdicha
 desdichado
+desdichados
 desdichas
 desea
 deseaba
@@ -2509,6 +2531,7 @@ desencantadas
 desencantado
 desencantamiento
 desencantara
+desencantarlo
 desencantas
 desencante
 desencanto
@@ -2557,6 +2580,7 @@ desnudez
 desnudo
 desnudos
 desobedecer
+desobediencia
 desocupada
 desolado
 desolador
@@ -2570,6 +2594,7 @@ despacho
 despedazada
 despedazara
 despedian
+despedirme
 despedirse
 despegar
 despertar
@@ -2621,7 +2646,6 @@ desventurada
 desventuras
 desvergonzada
 desvergüenzas
-desvergüenzasadorables
 desviar
 detallada
 detalladamente
@@ -2649,6 +2673,7 @@ devorador
 devorar
 devorarlos
 devorarte
+devoremos
 devuelvele
 devuelves
 di
@@ -2658,7 +2683,7 @@ diamante
 diamantes
 diariamente
 dias
-diazhombres
+diaz
 dibujando
 dice
 dicen
@@ -2709,6 +2734,7 @@ dilato
 dile
 dime
 dimos
+din
 dinar
 dinares
 dinero
@@ -2737,6 +2763,8 @@ dirigir
 dirigira
 dirigirme
 dirigirse
+dirijas
+discrecion
 discreta
 discretamente
 discreteos
@@ -2796,6 +2824,7 @@ divisas
 divise
 diviso
 divulgase
+djalis
 djanhar
 djiliad
 djoulnar
@@ -2805,9 +2834,8 @@ doblemente
 doce
 docta
 doctor
-documentadadirigida
+documentada
 documentos
-documentosplanos
 dolencia
 dolia
 dolor
@@ -2830,7 +2858,6 @@ donaires
 donativo
 doncella
 doncellas
-doncellasde
 donde
 dones
 doniazada
@@ -2842,6 +2869,7 @@ dormimos
 dormir
 dormirnos
 dormirte
+dorsal
 dos
 doscientos
 dosel
@@ -2854,13 +2882,14 @@ duda
 dudado
 dudar
 dudas
+dudes
 duelo
 duelos
+duerme
 dueña
 dueño
 dueños
 dulce
-dulceamiga
 dulces
 dulcificando
 dulzura
@@ -2884,6 +2913,7 @@ e
 ebano
 eblis
 echa
+echad
 echada
 echado
 echamos
@@ -2913,7 +2943,6 @@ edificio
 edificios
 editores
 editorial
-editorialnovelas
 educacion
 educadas
 educandome
@@ -2924,13 +2953,12 @@ eficacia
 eficaz
 efrit
 efrita
-efritdel
-efritprosiguio
 efrits
 efusion
 efusivamente
 egipcias
 egipto
+eh
 ejecucion
 ejecutada
 ejecutar
@@ -2942,7 +2970,6 @@ ejercer
 ejercitaron
 ejercitos
 el
-elamin
 elastico
 eleccion
 electricidad
@@ -2957,7 +2984,6 @@ elegiras
 elevada
 elevado
 elevo
-elgenni
 elige
 eligiendo
 eligiese
@@ -3013,6 +3039,7 @@ empuñandolo
 empuño
 en
 enamorado
+enamorados
 enamoro
 encabrito
 encadena
@@ -3088,7 +3115,6 @@ encontro
 encorvado
 encuadernado
 encuadernados
-encuadernadosprecio
 encuentra
 encuentran
 encuentras
@@ -3176,6 +3202,7 @@ entiendo
 entonaron
 entonces
 entra
+entrad
 entrada
 entrado
 entramos
@@ -3183,6 +3210,8 @@ entrando
 entrar
 entraron
 entras
+entraste
+entraña
 entrañablemente
 entrañas
 entre
@@ -3451,8 +3480,6 @@ estuvieses
 estuvimos
 estuvo
 etc
-etca
-etcse
 eterna
 eternamente
 eternas
@@ -3569,7 +3596,9 @@ extraordinario
 extraviado
 extravio
 extraña
+extrañas
 extraño
+extraños
 extremadamente
 extremidades
 extremo
@@ -3580,7 +3609,7 @@ f
 fabricar
 fabrico
 fabula
-fabulassyro
+fabulas
 facciones
 facetas
 facil
@@ -3590,7 +3619,6 @@ facilitar
 facilmente
 facundia
 faguet
-faguetla
 fahima
 faldones
 fallecido
@@ -3647,8 +3675,6 @@ felicitaron
 felicitemos
 felicito
 feliz
-felizbella
-felizbello
 felizmente
 femenino
 feo
@@ -3667,6 +3693,7 @@ fideos
 fiel
 fieles
 fiera
+fieras
 fies
 fiesta
 figura
@@ -3713,7 +3740,6 @@ fletamos
 fletar
 flexible
 flor
-flordegranada
 floreciente
 florecimiento
 flores
@@ -3753,7 +3779,6 @@ frances
 francesa
 franceses
 francia
-franciatraduccion
 franco
 franquearon
 frapie
@@ -3814,6 +3839,7 @@ fusion
 fustigo
 futura
 futuro
+g
 gabinete
 gacela
 gacelas
@@ -3829,6 +3855,7 @@ gana
 ganado
 ganados
 ganancia
+ganancias
 ganarse
 ganarte
 ganas
@@ -3855,13 +3882,13 @@ generosidades
 generoso
 generosos
 genio
+genni
 gennia
 gente
 gentes
 gentil
 gentileza
 geografia
-geografiaseis
 georgirus
 germanias
 germinara
@@ -3885,6 +3912,7 @@ gobernadores
 gobernaron
 goberne
 goberno
+gobierna
 gobiernan
 gobiernen
 gobierno
@@ -3902,6 +3930,8 @@ gomez
 gongora
 gonzalez
 gorda
+gordo
+gorjeo
 gorki
 gota
 gotas
@@ -3931,15 +3961,16 @@ grandes
 grandeza
 grandisimo
 grano
-granodebelleza
 granos
 grasa
 grasas
 gratas
+gratificacion
 gratifico
 gratitud
 gravemente
 griegos
+grieta
 gris
 gritaba
 gritar
@@ -3977,6 +4008,7 @@ guijarros
 guillem
 guio
 guisado
+guisala
 guiñaba
 guiñaban
 guiñandome
@@ -3986,6 +4018,7 @@ gusta
 gustado
 gustar
 gusten
+gustes
 gusto
 gustosamente
 gustoso
@@ -4016,6 +4049,7 @@ habitacion
 habitaciones
 habitais
 habitamos
+habitan
 habitante
 habitantes
 habla
@@ -4028,6 +4062,7 @@ hablan
 hablando
 hablar
 hablara
+hablaras
 hablare
 hablarle
 hablarme
@@ -4070,6 +4105,7 @@ hagan
 hagas
 hagase
 hago
+hak
 halcon
 halda
 halla
@@ -4148,9 +4184,10 @@ heroes
 heroica
 heroico
 heroicos
-heroismolos
+heroismo
 herramienta
 hervidas
+hervidos
 hervir
 hesiodo
 hete
@@ -4183,13 +4220,13 @@ hirvio
 hisopo
 historia
 historiador
-historiaprosiguio
 historias
 hizo
 hogar
 hoguera
 hoja
 hojas
+hola
 holgazan
 holmes
 hombre
@@ -4220,7 +4257,7 @@ horror
 horrores
 horroriza
 hospitalaria
-hospitalespanoramas
+hospitales
 hospitalidad
 hostigarle
 hostil
@@ -4278,6 +4315,7 @@ huries
 hurtadillas
 hussein
 hutared
+huy
 huyendo
 huyera
 huysmans
@@ -4285,12 +4323,7 @@ hæckel
 i
 iba
 ibañez
-ibañezconocer
-ibañezesta
-ibañezmas
-ibañezprologo
 ibn
-ibnrachid
 idea
 ideas
 identico
@@ -4303,6 +4336,7 @@ ignominioso
 ignora
 ignoraba
 ignorada
+ignorancia
 ignorando
 ignorante
 ignorantes
@@ -4313,11 +4347,8 @@ igual
 igualarse
 iguales
 igualmente
-ihistorias
 ii
-iihistorias
 iii
-iiihistorias
 iliada
 ilumina
 iluminada
@@ -4326,11 +4357,11 @@ iluminan
 ilumino
 ilustraciones
 ilustrada
+ilustradisima
 ilustrados
 ilustre
 ilustres
 imagen
-imagenpero
 imaginacion
 imaginaciones
 imaginarte
@@ -4340,6 +4371,7 @@ iman
 imantadas
 imitar
 imitaremos
+imitaros
 imitativos
 impaciencia
 impaciente
@@ -4427,6 +4459,7 @@ indicado
 indican
 indicare
 indicaremos
+indicarte
 indice
 indico
 indiferente
@@ -4468,6 +4501,7 @@ infinita
 infinitamente
 infinito
 infinitos
+ingegnieros
 ingenio
 ingenua
 ingenuidad
@@ -4477,10 +4511,12 @@ ingleses
 iniciada
 injurias
 injustamente
+injusticia
 injusticias
 inmaculada
 inmediatamente
 inmensa
+inmensas
 inmensidad
 inmenso
 inmorales
@@ -4531,6 +4567,7 @@ intento
 intercala
 intercalan
 interes
+interesa
 intereso
 interior
 internaba
@@ -4596,15 +4633,13 @@ irritado
 irritantes
 irse
 irte
-ishak
+is
 isla
 islam
 islamita
 islas
 iv
-ivhistoria
 ix
-ixhistorias
 izquierda
 izquierdo
 j
@@ -4620,6 +4655,7 @@ jarro
 jarron
 jarrones
 jaspe
+jaures
 jazmin
 jazmines
 jefe
@@ -4627,7 +4663,6 @@ jefes
 jena
 jenofonte
 jeque
-jequelo
 jeques
 jeronimo
 jesuitas
@@ -4637,6 +4672,7 @@ jofainas
 jornada
 jorobado
 jorobados
+jose
 joven
 jovenes
 joya
@@ -4680,7 +4716,6 @@ justicia
 justicias
 justo
 juvenil
-juvenilde
 juveniles
 juventud
 juzga
@@ -4693,12 +4728,13 @@ kadies
 kalendars
 kamar
 kamaralzaman
-kancuentos
+kan
 kanoon
 kassib
 kenafa
 khan
 khol
+kir
 kitab
 kropotkine
 la
@@ -4793,7 +4829,6 @@ lejanos
 lejos
 lengua
 lenguaje
-lenguajegorjeo
 lenguajes
 lenguas
 lenta
@@ -4839,10 +4874,14 @@ leñadores
 libertaba
 libertad
 libertades
+libertado
+libertador
 libertalos
 libertare
+libertarme
 libertase
 libertate
+liberte
 liberten
 libertes
 libertina
@@ -4869,6 +4908,7 @@ libro
 libros
 licencias
 licenciosa
+licitas
 licito
 licor
 licores
@@ -4891,9 +4931,9 @@ lineas
 lingüisticas
 linternas
 liquido
+lisie
 literal
 literalidad
-literalidadno
 literalmente
 literaria
 literarias
@@ -5011,6 +5051,7 @@ logre
 logro
 longo
 lontananza
+loor
 lope
 los
 losa
@@ -5018,11 +5059,11 @@ losas
 louys
 lozanas
 lubrico
-luchala
+lucha
 lucia
 lucio
 lucirse
-lucmetelkadi
+lucmet
 luego
 lugar
 lugares
@@ -5066,6 +5107,7 @@ magicos
 magir
 magna
 magnanimidad
+magnetica
 magnifica
 magnificas
 magnifico
@@ -5089,6 +5131,7 @@ malditos
 maleficios
 maleficos
 males
+malhechor
 malicia
 maliciosamente
 maligno
@@ -5115,6 +5158,7 @@ mandara
 mandare
 mandarias
 mandas
+mandatos
 mande
 mando
 manejarmelas
@@ -5128,6 +5172,7 @@ manjares
 mano
 manos
 mansion
+mansur
 manta
 manteca
 mantel
@@ -5139,7 +5184,6 @@ manuscritos
 manzana
 manzanas
 mapas
-mapasla
 maquinaron
 mar
 maravilla
@@ -5165,13 +5209,13 @@ marcharnos
 marcharon
 marcharse
 marchasen
+marchate
 marche
 marches
 marcho
 marcial
 mardrus
 mardrusianas
-mardrusversion
 mare
 mares
 margueritte
@@ -5196,6 +5240,8 @@ masauda
 mascata
 masculino
 masrur
+massaud
+massoudi
 massrur
 mastiles
 mata
@@ -5215,6 +5261,7 @@ matarle
 matarlo
 matarlos
 matarme
+matarnos
 mataron
 matarte
 matas
@@ -5228,6 +5275,7 @@ mates
 mato
 matrimonio
 matto
+mawassif
 maximas
 maximo
 mayne
@@ -5275,6 +5323,7 @@ membrillos
 memorable
 memoria
 mencion
+mencionarla
 mendicantes
 mendigas
 mendigos
@@ -5345,6 +5394,7 @@ miedo
 miel
 miembros
 miente
+mientes
 mientras
 mil
 miles
@@ -5491,6 +5541,7 @@ muerto
 muertos
 muestras
 muevas
+mueve
 mujer
 mujeres
 mula
@@ -5506,6 +5557,7 @@ murmuro
 muro
 muros
 musica
+muslemine
 muslos
 musulman
 musulmana
@@ -5527,6 +5579,8 @@ nada
 nadando
 nadar
 nadie
+nadim
+nahar
 nalgas
 nar
 naranjos
@@ -5553,12 +5607,14 @@ naveguen
 naves
 navio
 navios
+nawabs
 nazareno
 necesaria
 necesariamente
 necesarias
 necesario
 necesarios
+necesidad
 necesita
 necesitamos
 necesitar
@@ -5582,6 +5638,7 @@ negras
 negro
 negros
 negue
+neman
 nenufares
 neto
 ni
@@ -5590,7 +5647,6 @@ nieve
 nilo
 ningun
 ninguna
-ningunapublicados
 ninguno
 niña
 niñez
@@ -5601,7 +5657,6 @@ noble
 nobles
 noche
 noches
-nochetraduccion
 nocion
 nocturna
 nodriza
@@ -5630,11 +5685,13 @@ noto
 notoriedad
 novela
 novelas
+novelesca
 novelesco
 novelista
 novelistas
 noventa
 novisima
+nowas
 nube
 nubes
 nuernnahar
@@ -5665,6 +5722,7 @@ obedece
 obedeceis
 obedecere
 obedeciendome
+obedezco
 obediencia
 objeto
 objetos
@@ -5730,13 +5788,13 @@ ocurrir
 ocurriria
 odio
 odioso
+odisea
 odres
 ofendernos
 ofensas
 oficial
 oficiales
 oficio
-oficiopues
 ofrecer
 ofrecerme
 ofreceselos
@@ -5747,7 +5805,6 @@ ofrecieron
 ofrecimos
 ofrecio
 ofrezco
-ofrezcodice
 oh
 oi
 oid
@@ -5785,6 +5842,7 @@ olvides
 oman
 omar
 ombligo
+omnipotente
 once
 ondular
 ondulosas
@@ -5900,6 +5958,7 @@ palpitacion
 pan
 pandero
 panorama
+panoramas
 papa
 papel
 para
@@ -5984,6 +6043,7 @@ pastelillos
 pastor
 pata
 patas
+paterno
 patibulo
 patio
 paul
@@ -6020,6 +6080,7 @@ peladas
 peldaños
 peligro
 peligros
+peligroso
 peligrosos
 pellejo
 pellizcaba
@@ -6155,6 +6216,7 @@ perseguia
 perseguir
 persia
 persico
+persiguela
 persiguen
 persiguiendo
 persisti
@@ -6162,6 +6224,7 @@ persistian
 persistiera
 persististe
 persona
+personajes
 personal
 personas
 pertenece
@@ -6190,7 +6253,6 @@ pescasteis
 pescuezo
 pesebre
 pesetas
-pesetaspor
 peso
 pesque
 pesquisas
@@ -6241,6 +6303,7 @@ planta
 plantas
 plata
 platillo
+platos
 plauto
 playa
 plaza
@@ -6372,6 +6435,7 @@ preferida
 preferimos
 preferir
 preferis
+prefiera
 prefieras
 prefieres
 prefiero
@@ -6414,6 +6478,7 @@ prescribio
 preseas
 presencia
 presenciar
+presenciarlo
 presenciaron
 presentado
 presentare
@@ -6451,7 +6516,6 @@ princesa
 princesas
 principal
 principales
-principalesnueve
 principalmente
 principe
 principes
@@ -6470,6 +6534,7 @@ procedian
 procura
 prodigan
 prodigio
+prodigios
 prodigiosa
 prodigiosamente
 prodigioso
@@ -6494,6 +6559,7 @@ profundizado
 profundizar
 profusamente
 profusas
+prohibirtelo
 prohibo
 prologo
 prolongarme
@@ -6502,7 +6568,6 @@ promesa
 promesas
 prometemos
 prometeo
-prometeovalencia
 prometer
 prometiste
 prometo
@@ -6551,26 +6616,16 @@ proyectos
 prudente
 prueba
 pruebalo
+pruebas
 psicologa
 pta
 ptas
-ptascarmen
-ptascastillo
-ptasciges
-ptascuentos
-ptase
-ptaseuropa
-ptasg
-ptaslos
-ptasr
-ptasteatro
-ptasugarte
-ptasw
 pubertad
 publicaba
 publicada
 publicadas
 publicado
+publicados
 publicas
 publico
 publicos
@@ -6691,7 +6746,9 @@ quitandolas
 quitaron
 quite
 quito
+r
 rabino
+rachid
 racine
 raciones
 radiante
@@ -6702,7 +6759,6 @@ rama
 ramadan
 ramas
 rambaud
-rambaudtraduccion
 rango
 ranunculos
 rapidamente
@@ -6711,8 +6767,10 @@ rapsodas
 rapte
 rapto
 raptor
+rara
 rareza
 rarezas
+rarisima
 rasgaras
 rasgo
 rasgue
@@ -6742,6 +6800,7 @@ rebele
 rebelion
 rebosante
 receptaculo
+rechaces
 rechazaste
 rechazo
 recia
@@ -6764,8 +6823,8 @@ reclamar
 reclinado
 reclinandome
 reclus
-reclustraduccion
 recobra
+recobrad
 recobrado
 recobrar
 recobraremos
@@ -6888,6 +6947,7 @@ reiremos
 reirnos
 reis
 reitero
+relacion
 relaciones
 relampagos
 relata
@@ -7010,6 +7070,7 @@ restantes
 restañar
 resto
 restricciones
+resucitador
 resueltamente
 resuelto
 resultado
@@ -7030,6 +7091,7 @@ reunan
 reunia
 reunidas
 reuniesen
+reunimos
 reunio
 reunir
 reunirse
@@ -7039,6 +7101,7 @@ revelale
 revelan
 revelar
 revelaras
+revelare
 revelase
 revele
 revelo
@@ -7114,11 +7177,9 @@ rojas
 rojo
 rojos
 roldan
-roldanclasicos
 rollo
 romancero
 romanos
-romanostomos
 romeria
 rompa
 romperia
@@ -7131,14 +7192,14 @@ ropa
 ropas
 roperos
 rosa
-rosaenelcaliz
 rosas
 rosny
 rostro
+rostros
 roto
 rotos
 rotulo
-rousseauclasicos
+rousseau
 rubies
 ruda
 rudezas
@@ -7150,6 +7211,7 @@ ruidosamente
 ruinas
 ruiz
 rum
+ruman
 ruptura
 rusa
 rustica
@@ -7176,6 +7238,7 @@ sabio
 sabios
 sable
 saborcillo
+saboreada
 saboreado
 saborearte
 sabras
@@ -7236,6 +7299,7 @@ saliesen
 salimos
 salio
 salir
+saliste
 saliva
 salomon
 salon
@@ -7288,7 +7352,7 @@ saque
 saques
 saquito
 sarcofago
-sartadeperlas
+sarta
 sarten
 sassan
 sastre
@@ -7299,6 +7363,7 @@ satisfacciones
 satisface
 satisfacen
 satisfacer
+satisfacerle
 satisfacerte
 satisfechas
 satisfecho
@@ -7307,12 +7372,8 @@ saturado
 saturarnos
 saturno
 schahrazada
-schahrazadaes
-schahrazadasea
 schahriar
-schahriarno
 schahzaman
-schahzamandel
 schamsennahar
 schazaman
 schehada
@@ -7347,6 +7408,7 @@ seguimos
 seguir
 seguiras
 seguirla
+seguirlo
 seguis
 segun
 segunda
@@ -7358,6 +7420,7 @@ seguro
 seguros
 seis
 selecta
+sellada
 sello
 sellos
 semblante
@@ -7409,6 +7472,7 @@ separacion
 separado
 separadora
 separamos
+separaremos
 separarla
 separarle
 separarme
@@ -7451,6 +7515,7 @@ sesamo
 sesamos
 sesenta
 sesion
+sesto
 setenta
 severo
 sexo
@@ -7490,6 +7555,7 @@ significan
 significar
 signo
 sigue
+sigueme
 siguiendo
 siguiente
 siguientes
@@ -7517,6 +7583,7 @@ sintiendo
 sintieron
 sintio
 siquiera
+sir
 siria
 sirios
 sirva
@@ -7595,7 +7662,6 @@ sonriendo
 sonrientes
 sonrio
 sonrisa
-sonrisadeluna
 sonrisas
 soplaba
 soplara
@@ -7610,6 +7676,7 @@ sordina
 sorprenda
 sorprendente
 sorprender
+sorprenderlos
 sorprendidisimo
 sorprendido
 sorprendieron
@@ -7632,6 +7699,7 @@ spencer
 stefane
 stendhal
 su
+suave
 suavemente
 suavizado
 sub
@@ -7646,7 +7714,6 @@ subir
 subitamente
 subito
 sublime
-sublimelubrico
 sublimes
 subterranea
 subterraneo
@@ -7659,6 +7726,7 @@ sucesivamente
 sucesos
 suculenta
 sucumbamos
+sucumban
 sucumbiera
 sudar
 sudario
@@ -7723,6 +7791,7 @@ suplicando
 suplicar
 suplicas
 suplicio
+suplicios
 suplico
 suplique
 suplir
@@ -7748,8 +7817,10 @@ sutiles
 suya
 suyo
 suyos
+syro
 t
 tabaco
+tabaria
 tablones
 taimada
 tajo
@@ -7788,7 +7859,6 @@ tardaron
 tarde
 tardo
 tarima
-taristofanes
 tarros
 tartana
 taza
@@ -7884,17 +7954,13 @@ tersas
 tesorero
 tesoro
 tesoros
-tesquilo
 testamento
 testero
 testigo
 testigos
-teuripides
 texto
 textos
 tez
-tfedro
-thesiodo
 ti
 tia
 tiberiades
@@ -7926,6 +7992,7 @@ tintas
 tintero
 tio
 tipo
+tipos
 tirando
 tirania
 tirase
@@ -7937,8 +8004,6 @@ titulada
 titulo
 tizon
 tizones
-tjenofonte
-tla
 toallas
 tocaban
 tocado
@@ -7950,11 +8015,9 @@ toda
 todas
 todavia
 todio
-todisea
 todo
 todopoderoso
 todos
-todoshistoria
 tolerar
 tolstoi
 toma
@@ -7969,8 +8032,6 @@ tome
 tomemos
 tomo
 tomos
-tomosarticulos
-tomosmillares
 topacios
 toque
 torbellino
@@ -7992,7 +8053,6 @@ torturada
 total
 totalidad
 totalmente
-tplauto
 trabaja
 trabajando
 trabajo
@@ -8009,8 +8069,11 @@ traducidos
 traducir
 traductor
 traductores
+trae
 traedle
+traedlo
 traeme
+traenoslo
 traer
 traere
 traereis
@@ -8022,7 +8085,7 @@ tragaluces
 tragarmelo
 tragarselo
 tragedia
-tragicosnueve
+tragicos
 trago
 traicion
 traido
@@ -8121,9 +8184,6 @@ tropas
 tropezado
 trozos
 trueno
-tshakespeare
-tsofocles
-tteocrito
 tu
 tuerto
 tuertos
@@ -8153,6 +8213,7 @@ tuyo
 tuyos
 u
 ua
+ugarte
 ultima
 ultimo
 ultimos
@@ -8162,6 +8223,7 @@ un
 una
 unas
 uncio
+undecimo
 unen
 unian
 unica
@@ -8189,7 +8251,6 @@ usar
 usarlo
 uso
 usted
-ustedtermino
 usurpado
 util
 utiles
@@ -8210,9 +8271,9 @@ vagando
 vaguedad
 vais
 vale
+valencia
 valenciana
 valencianos
-valencianosviajes
 valentia
 valerio
 valerme
@@ -8224,6 +8285,7 @@ valiente
 valiosos
 valle
 valor
+vamos
 vampiro
 van
 vanidad
@@ -8279,6 +8341,7 @@ vemos
 ven
 vencida
 vencido
+vendais
 vendar
 vendedor
 vender
@@ -8298,6 +8361,7 @@ venga
 vengan
 vengar
 vengare
+vengarla
 vengarme
 vengarse
 vengo
@@ -8311,6 +8375,7 @@ venir
 venis
 ventana
 ventanas
+ventosas
 ventosear
 ventura
 venturosa
@@ -8373,11 +8438,11 @@ vestigio
 vestireis
 vete
 vez
-vfin
 vi
 viajado
 viajamos
 viajar
+viajaras
 viaje
 viajero
 viajes
@@ -8414,11 +8479,9 @@ vigia
 vigilados
 vigilarla
 vigor
-vihistorias
 vii
-viihistorias
 viii
-viiiaventuras
+villania
 vimos
 vine
 viniendo
@@ -8439,7 +8502,7 @@ violento
 violetas
 virgen
 virgenes
-virgilioedad
+virgilio
 virginidad
 viriles
 virilidad
@@ -8492,7 +8555,6 @@ volare
 volco
 vole
 volo
-volsocialismo
 voltaire
 volumen
 volumenes
@@ -8509,7 +8571,6 @@ volverme
 volvernos
 volvi
 volvia
-volviajes
 volviendo
 volviendose
 volviera
@@ -8542,31 +8603,22 @@ vulva
 vulvas
 w
 wardan
+wekil
 wilson
 x
-xel
 xi
-xihistorias
 xii
-xiianecdotas
 xiii
-xiiihistoria
 xiv
-xivel
 xix
-xixhistoria
-xvconsejos
+xv
 xvi
 xvii
-xviiclasicos
-xviiel
-xviiilas
-xvila
-xxcritica
-xxihistoria
-xxiihistorias
-xxiiilos
-xxlos
+xviii
+xx
+xxi
+xxii
+xxiii
 y
 ya
 yace
@@ -8583,9 +8635,11 @@ yusuf
 zadock
 zafiros
 zalamerias
+zaman
+zangano
 zarpamos
 zarpar
-zeinalmawassif
+zein
 zib
 zobeida
 zoco
@@ -8595,3 +8649,4 @@ zorrilla
 zozobrar
 zozobras
 zumurrud
+ª
