@@ -56,4 +56,4 @@ def crear_archivo_de_palabras():
 
     tabla_de_longitud, total = mezclar_archivos()
     print(tabla_de_longitud, total)
-    return crear_archivo_de_palabras
+    return tabla_de_longitud
