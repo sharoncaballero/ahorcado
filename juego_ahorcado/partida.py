@@ -1,7 +1,7 @@
 from juego_ahorcado.validar_entrada import ingresar_letra
 
 def reemplazar_letra(palabra, palabra_oculta, letra):
-    """Esta funcion indica si la letra es parte de la palabra y en ese caso lo agrega en la palabra oculta"""
+    """Esta funcion indica si la letra es parte de la palabra y en ese caso lo agrega en la palabra oculta."""
     palabra_nueva = ""
     adivino = False
     for posicion in range(len(palabra)):
@@ -21,9 +21,11 @@ def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,punt
 
     jugadores_vivos = len(nombres_participantes)
 
+    total_jugadores = len(nombres_participantes)
+
     while jugadores_vivos != 0:
 
-        for i in range(len(nombres_participantes)):
+        for i in range(total_jugadores):
             # El turno de un jugador
             nombre = nombres_participantes[i]
 
@@ -34,8 +36,13 @@ def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,punt
                 print("Cantidad de Desaciertos= ", puntaje[nombre]["desaciertos"])
                 print("Cantidad de Puntos= ", puntaje[nombre]["puntos"])
                 print(palabras_ocultas[i])
+                #Pido una letra al usuario
                 letra = ingresar_letra(palabras_ocultas[i])
-                palabras_ocultas[i], adivino = reemplazar_letra(palabras[i], palabras_ocultas[i], letra)
+                #Veo si adivina o no y como queda la palabra oculta
+                palabra_nueva, adivino = reemplazar_letra(palabras[i], palabras_ocultas[i], letra)
+
+                #Cambio la palabra oculta por la nueva palabra oculta
+                palabras_ocultas[i] = palabra_nueva
 
                 # Actualizo puntaje y vidas dependiendo si adivino o no
                 if adivino:

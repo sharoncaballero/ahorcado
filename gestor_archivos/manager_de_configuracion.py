@@ -5,8 +5,6 @@ def cargar_configuracion(nombre, defecto):
     with open("configuracion/configuracion.txt", "r") as archivo:
         for linea in archivo:
             lista = linea.replace("\n", "").split(" ")
-            if len(lista)>=2:
-                if nombre == lista[0]:
-                    if lista[1].isdigit():
-                        return int(lista[1])
+            if len(lista) >= 2 and nombre == lista[0] and lista[1].isdigit():
+                return int(lista[1])
     return defecto

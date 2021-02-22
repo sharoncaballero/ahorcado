@@ -20,8 +20,10 @@ def reordenar_jugadores(nombres_participantes,ganador,puntaje_historico):
     """Reordena los jugadores por puntaje, poniendo primero al ganador de la ultima partida."""
     jugadores =[(puntaje_historico[nombre]['puntos'], nombre) for nombre in nombres_participantes if nombre != ganador]
     jugadores = sorted(jugadores,key=lambda x:x[0],reverse=True)
+    jugadores = [x for _, x in jugadores]
     if ganador != 'Programa':
-        jugadores = [ganador] + [x for _, x in jugadores]
+        jugadores = [ganador] + jugadores
+
     return jugadores
 
 
