@@ -33,8 +33,8 @@ def descripcion_fin_partida(nombres_participantes, palabras, palabras_ocultas,  
     print(titulo)
     filas = []
     for i,nombre in enumerate(nombres_participantes):
-        fila = "| " + nombre[:12] + " "*(12-len(nombre[:12])) # toma solo 12 letras del nombre y si es mas pequeño le agrega espacios
-        fila = fila + "| " + palabras[i][:14] + " "*(14-len(palabras[i][:14]))# lo mismo pero con 14
+        fila = "| " + nombre[:12] + " "*(12-len(nombre[:12]))
+        fila = fila + "| " + palabras[i][:14] + " "*(14-len(palabras[i][:14]))
         fila = fila + "| " + palabras_ocultas[i][:15] + " "*(15-len(palabras_ocultas[i][:15]))
         fila = fila + "| " + str(puntaje[nombre]["puntos"])[:8] + " "*(8-len(str(puntaje[nombre]["puntos"])[:8]))
         fila = fila + "| " + str(puntaje[nombre]["aciertos"])[:9] + " "*(9-len(str(puntaje[nombre]["aciertos"])[:9]))
@@ -93,7 +93,6 @@ def jugar(tabla_de_longitud):
 
         #Descomentar para debug
         #print(palabras)
-
 
         #Creo la misma cantidad de palabras pero ocultas
         palabras_ocultas = ["_"*longitud for i in range(numero_participantes)]
