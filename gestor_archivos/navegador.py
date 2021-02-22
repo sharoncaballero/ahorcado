@@ -14,7 +14,7 @@ def salvar_resultados(nombres_participantes,puntaje_historico):
     with open("configuracion/partida.csv","w") as archivo:
         archivo.write(titulo)
         for puntos,nombre in jugadores:
-            fila = nombre+","+str(puntos)+","+str(puntaje_historico[nombre]['aciertos'])+","+str(puntaje_historico[nombre]['desaciertos'])+","
+            fila = nombre+","+str(puntaje_historico[nombre]['aciertos'])+","+str(puntaje_historico[nombre]['desaciertos'])+","+str(puntos)+","
             for palabra in puntaje_historico[nombre]['palabras']:
                 fila = fila + " " + palabra
             archivo.write(fila+"\n")

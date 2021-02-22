@@ -15,12 +15,6 @@ def reemplazar_letra(palabra, palabra_oculta, letra):
 def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,puntos_aciertos,puntos_desaciertos,puntos_adivina):
     """Bucle correspondiente a una partida entera"""
 
-    #dc = {}
-    #for nombre in nombres_participantes:
-    #    dc[nombre] = {"puntos": 0, "aciertos": 0, "desaciertos": 0}
-
-    #dc['JUAN']['puntos'] = dc['JUAN']['puntos'] + 2
-
     puntaje = {nombre: {"puntos": 0, "aciertos": 0, "desaciertos": 0} for nombre in nombres_participantes}
 
     jugadores_vivos = len(nombres_participantes)
