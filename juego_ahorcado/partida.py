@@ -15,9 +15,13 @@ def reemplazar_letra(palabra, palabra_oculta, letra):
 def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,puntos_aciertos,puntos_desaciertos,puntos_adivina):
     """Bucle correspondiente a una partida entera"""
 
-    puntaje = {nombre: {"puntos": 0, "aciertos": 0, "desaciertos": 0} for nombre in nombres_participantes}
+    #dc = {}
+    #for nombre in nombres_participantes:
+    #    dc[nombre] = {"puntos": 0, "aciertos": 0, "desaciertos": 0}
 
-    vidas = {nombre:max_desaciertos for nombre in nombres_participantes}
+    #dc['JUAN']['puntos'] = dc['JUAN']['puntos'] + 2
+
+    puntaje = {nombre: {"puntos": 0, "aciertos": 0, "desaciertos": 0} for nombre in nombres_participantes}
 
     jugadores_vivos = len(nombres_participantes)
 
@@ -29,22 +33,25 @@ def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,punt
             # El turno de un jugador
             nombre = nombres_participantes[i]
 
-            # Veo si esta con vida
-            if vidas[nombre] > 0:
+            # Veo si tiene llego al limite de desaciertos
+            if puntaje[nombre]['desaciertos'] != max_desaciertos:
                 print("Turno", nombre)
                 print("Cantidad de Aciertos= ", puntaje[nombre]["aciertos"])
                 print("Cantidad de Desaciertos= ", puntaje[nombre]["desaciertos"])
                 print("Cantidad de Puntos= ", puntaje[nombre]["puntos"])
+                print("Intentos restantes= ", max_desaciertos-puntaje[nombre]['desaciertos'])
                 print(palabras_ocultas[i])
+
                 #Pido una letra al usuario
                 letra = ingresar_letra(palabras_ocultas[i])
+
                 #Veo si adivina o no y como queda la palabra oculta
                 palabra_nueva, adivino = reemplazar_letra(palabras[i], palabras_ocultas[i], letra)
 
                 #Cambio la palabra oculta por la nueva palabra oculta
                 palabras_ocultas[i] = palabra_nueva
 
-                # Actualizo puntaje y vidas dependiendo si adivino o no
+                # Actualizo puntaje dependiendo si adivino o no
                 if adivino:
                     print("Correcto", palabras_ocultas[i])
                     puntaje[nombre]["puntos"] = puntaje[nombre]["puntos"] + puntos_aciertos
@@ -55,12 +62,11 @@ def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,punt
                         return puntaje, nombre
 
                 else:
-                    vidas[nombre] = vidas[nombre] - 1
-                    print("Incorrecto tienes", vidas[nombre], "vidas")
                     puntaje[nombre]["puntos"] = puntaje[nombre]["puntos"] - puntos_desaciertos
                     puntaje[nombre]["desaciertos"] = puntaje[nombre]["desaciertos"] + 1
+                    print("Incorrecto tienes", max_desaciertos-puntaje[nombre]['desaciertos'], "intentos restantes")
 
-                    if vidas[nombre] == 0:
+                    if puntaje[nombre]['desaciertos'] == max_desaciertos:
                         jugadores_vivos = jugadores_vivos - 1
                 print("."*54+"\n")
 

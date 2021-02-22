@@ -29,13 +29,13 @@ def reordenar_jugadores(nombres_participantes,ganador,puntaje_historico):
 
 def descripcion_fin_partida(nombres_participantes, palabras, palabras_ocultas,  puntaje, partidas):
     """Imprime el resultado final de una partida ordenado por puntaje mas alto a mas bajo"""
-    titulo = "| NOMBRE      | PALABRA       | PALABRA OCULTA | PUNTAJE | ACIERTOS | DESACIERTOS | #PARTIDAS |\n"
+    titulo = "| NOMBRE      | PALABRA            | PALABRA OCULTA      | PUNTAJE | ACIERTOS | DESACIERTOS | #PARTIDAS |\n"
     print(titulo)
     filas = []
     for i,nombre in enumerate(nombres_participantes):
         fila = "| " + nombre[:12] + " "*(12-len(nombre[:12]))
-        fila = fila + "| " + palabras[i][:14] + " "*(14-len(palabras[i][:14]))
-        fila = fila + "| " + palabras_ocultas[i][:15] + " "*(15-len(palabras_ocultas[i][:15]))
+        fila = fila + "| " + palabras[i][:19] + " "*(19-len(palabras[i][:19]))
+        fila = fila + "| " + palabras_ocultas[i][:20] + " "*(20-len(palabras_ocultas[i][:20]))
         fila = fila + "| " + str(puntaje[nombre]["puntos"])[:8] + " "*(8-len(str(puntaje[nombre]["puntos"])[:8]))
         fila = fila + "| " + str(puntaje[nombre]["aciertos"])[:9] + " "*(9-len(str(puntaje[nombre]["aciertos"])[:9]))
         fila = fila + "| " + str(puntaje[nombre]["desaciertos"])[:12] + " "*(12-len(str(puntaje[nombre]["desaciertos"])[:12]))
