@@ -2,14 +2,15 @@ from juego_ahorcado.validar_entrada import ingresar_letra
 
 def reemplazar_letra(palabra, palabra_oculta, letra):
     """Esta funcion indica si la letra es parte de la palabra y en ese caso lo agrega en la palabra oculta."""
-    palabra_nueva = ""
+    palabra_nueva = list(palabra_oculta)
     adivino = False
-    for posicion in range(len(palabra)):
-        if palabra[posicion] == letra:
+
+    for posicion,letra_palabra in enumerate(palabra):
+        if letra_palabra == letra:
             adivino=True
-            palabra_nueva = palabra_nueva + letra
-        else:
-            palabra_nueva = palabra_nueva + palabra_oculta[posicion]
+            palabra_nueva[posicion] = letra
+
+    palabra_nueva = ''.join(palabra_nueva)
     return palabra_nueva, adivino
 
 def partida(nombres_participantes,palabras,palabras_ocultas,max_desaciertos,puntos_aciertos,puntos_desaciertos,puntos_adivina):

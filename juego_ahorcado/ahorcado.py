@@ -69,10 +69,10 @@ def jugar(tabla_de_longitud):
     puntos_aciertos = cargar_configuracion("PUNTOS_ACIERTOS", 2)
     puntos_desaciertos = cargar_configuracion("PUNTOS_DESACIERTOS", 1)
 
-    #Validar cantidad de jugadores
+    #Consulta y Valida cantidad de jugadores
     numero_participantes = consultar_participantes()
 
-    #Validar nombres de jugadores
+    #Consulta y Valida nombres de jugadores
     nombres_participantes = consultar_nombres(numero_participantes) #Ej: ['Sharon','Sarah', ...]
 
     mezclar_jugadores(nombres_participantes)
@@ -95,7 +95,7 @@ def jugar(tabla_de_longitud):
         #print(palabras)
 
         #Creo la misma cantidad de palabras pero ocultas
-        palabras_ocultas = ["_"*longitud for i in range(numero_participantes)]
+        palabras_ocultas = ["_"*longitud for i in range(numero_participantes)] # [ "_____","_____","_____", ...]
 
         #Que empiece el juego
         puntaje,ganador = partida(nombres_participantes, palabras, palabras_ocultas,max_desaciertos,puntos_aciertos,puntos_desaciertos,puntos_adivina)
